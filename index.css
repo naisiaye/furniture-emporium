@@ -3,7 +3,13 @@ body {
   color: white;
   text-align: center;
 }
-.product {
+h1 {
+  color: gold;
+}
+h2 {
+  color: yellow;
+}
+article {
   background-color: black;
   opacity: 0.5;
   font-family: sans-serif;
@@ -11,7 +17,10 @@ body {
   border-radius: 20px;
   margin: 10px 50px;
 }
-#price {
+#heading {
+  color: #131302;
+}
+.price {
   color: #ececbb;
 }
 button {
